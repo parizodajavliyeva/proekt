@@ -1,0 +1,19 @@
+
+.text-img {
+    margin-top: 20px;
+   align-items: center;
+   justify-content: center;
+    font-family: sans-serif;
+    color: #fff;
+    padding-top: 40px;
+    padding-bottom: 25px;
+    padding-right: 25px;
+    padding-left: 25px;
+    background-color: red;
+}
+
+.only-li {
+    &:hover {
+        background-color: #FFFDEE;
+    }
+}
